@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2022/08/24/an-unconference-appears.html",
+				"title": "An un-conference appears",
+				"content_html": "<p>I jumped into a short <a href=\"https://twitter.com/andy_matuschak/status/1561504734892023808\">un-conference organized/hosted by Andy Matuschak</a> last weekend. Within this humble Gather, I came across lots of intriguing people and energizing ideas. Some notes and a few follow-up ideas:</p>\n<p><img src=\"https://short.therealadam.com/uploads/2022/e1baddc3b8.png\" alt=\"My notes from the event\"></p>\n<p><a href=\"https://www.napkin.one\">Napkin</a> is <em>space</em> for ideas and not, it seems, about note capture as an end. Rather, it&rsquo;s about throwing ideas or quotes at the (metaphorical) wall and letting the system organize them into clusters or connections. If you like some of those idea, you organize the ideas into a linear outline and export that to whatever you like to write with.</p>\n<p><a href=\"https://ncase.me/nutshell/\">Nutshell</a> is about adding an extra dimension to documents on the web. The creator, <a href=\"https://ncase.me\">Nicky Case</a>, described it as a &ldquo;tool for expandable explanation&rdquo;. Those explanations take the form of popovers that may contain a bit of text (like a footnote/annotation), a scraped reference to another page (transclusion), or a fully interactive gizmo to explore an idea in a more tactile manner.</p>\n<p>Excitement about applying language models (e.g. GPT-3 or DALL-E) to generative creativity came up a few times. Some of the applications demoed were already using language models to augment insight or obviate manual human organization. Using models to &lsquo;read between the lines&rsquo; of captured notes/human input and generate new ideas came up as well.</p>\n<p>Dissatisfaction with some current PKM tools came up a couple times. In particular, seeking note capture or memory recall as a (customer) engagement end rather than as a means to thinking more/better thoughts. I <em>think</em> I heard a couple criticisms that some tool was &ldquo;too IT&rdquo;, but I&rsquo;m not sure I even heard it correctly or what that would even mean! 😆</p>\n<p>Overall: highly recommend seeking folks using computers to augment their ability to create and remember instead of stopping at “finally got my notes app just the way I like it”!</p>\n",
+				"content_text": "I jumped into a short [un-conference organized/hosted by Andy Matuschak](https://twitter.com/andy_matuschak/status/1561504734892023808) last weekend. Within this humble Gather, I came across lots of intriguing people and energizing ideas. Some notes and a few follow-up ideas:\n\n![My notes from the event](https://short.therealadam.com/uploads/2022/e1baddc3b8.png)\n\n[Napkin](https://www.napkin.one) is _space_ for ideas and not, it seems, about note capture as an end. Rather, it's about throwing ideas or quotes at the (metaphorical) wall and letting the system organize them into clusters or connections. If you like some of those idea, you organize the ideas into a linear outline and export that to whatever you like to write with.\n\n[Nutshell](https://ncase.me/nutshell/) is about adding an extra dimension to documents on the web. The creator, [Nicky Case](https://ncase.me), described it as a \"tool for expandable explanation\". Those explanations take the form of popovers that may contain a bit of text (like a footnote/annotation), a scraped reference to another page (transclusion), or a fully interactive gizmo to explore an idea in a more tactile manner.\n\nExcitement about applying language models (e.g. GPT-3 or DALL-E) to generative creativity came up a few times. Some of the applications demoed were already using language models to augment insight or obviate manual human organization. Using models to 'read between the lines' of captured notes/human input and generate new ideas came up as well.\n\nDissatisfaction with some current PKM tools came up a couple times. In particular, seeking note capture or memory recall as a (customer) engagement end rather than as a means to thinking more/better thoughts. I _think_ I heard a couple criticisms that some tool was \"too IT\", but I'm not sure I even heard it correctly or what that would even mean! 😆\n\nOverall: highly recommend seeking folks using computers to augment their ability to create and remember instead of stopping at “finally got my notes app just the way I like it”!\n\n",
+				"date_published": "2022-08-24T08:11:39-05:00",
+				"url": "https://short.therealadam.com/2022/08/24/an-unconference-appears.html"
+			},
+			{
 				"id": "http://therealadam.micro.blog/2022/08/16/very-handsome-task.html",
 				"title": "Very handsome task tracking, offline and online",
 				"content_html": "<p>About a year ago, I added a curiously pretentious object to my repertoire of productivity hacks. <a href=\"https://ugmonk.com/pages/analog\">Analog</a> is a) a paper productivity notation not unlike Bullet Journaling b) printed on pleasantly thick index cards and c) a bit of desk furniture to prop up the cards and store the last couple dozen of them.</p>\n<p>The idea is you write your tasks down for today/later/someday. Those tasks sit right in front of you, taunting you. You cross them off as you get stuff done. Now you’ve done a productivity!</p>\n<p>Reductionist jokes aside, it’s a fine system. The cards are printed with “Today”, “Next”, or “Someday” at the top and lines to encourage writing down several, but not too many, tasks. It’s a good way to think about organizing what you need/want to get done. As productivity systems go, it’s clear and non-invasive<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<p><a href=\"https://daverupert.com/2021/02/one-month-on-analog/\">Dave Rupert uses/tried Analog</a> too and has a good take on it.</p>\n<p>Tactility is Analog’s leg up. It’s nice to start the day writing out some tasks, looking over the previous day’s cards, shuffling the cards from previous days. Even <a href=\"https://culturedcode.com/things/\">Things, the best task software</a>, can’t provide the tactile “ahhhh”-moment of crossing an item off your list. Tasteful animation, design, and haptics get close, but touching glass isn’t as good as pen and paper.</p>\n<p>That said, I’m not tempted to discard Things. It’s literally one of the best applications I’ve used, ever. That said, it’s charming to have a redundant, back-up scheme for reminding myself of the most important things to accomplish today. Analog is like having a (very handsome) back-up alarm clock to the alarm clock one <em>intends</em> to wake up to. It’s always pleasant to look at, and every so often it is the difference between an energetic day and a day played catching up.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Many productivity schemes feel like they want to take over your life to realize their benefits. IOW, they fantastically fail the “is this sufficiently distinguishable from a cult?” test.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
@@ -538,7 +546,7 @@
 				"id": "http://therealadam.micro.blog/2020/07/20/we-had-a.html",
 				
 				"content_html": "<p>We had a real dinger of a sunset last night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"https://short.therealadam.com/uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-20T18:25:58-05:00",
 				"url": "https://short.therealadam.com/2020/07/20/we-had-a.html"
 			},
@@ -650,7 +658,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/29/210628.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://short.therealadam.com/uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://short.therealadam.com/uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-29T21:06:28-05:00",
 				"url": "https://short.therealadam.com/2020/05/29/210628.html"
 			},
@@ -674,7 +682,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/27/dear-apple-music.html",
 				
 				"content_html": "<p>Dear Apple Music algorithms,</p>\n<p>The center item is not at all like the others.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
+				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"https://short.therealadam.com/uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
 				"date_published": "2020-05-27T08:27:52-05:00",
 				"url": "https://short.therealadam.com/2020/05/27/dear-apple-music.html"
 			},
@@ -754,7 +762,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/22/the-second-best.html",
 				
 				"content_html": "<p>The second best sunset of the week (Monday)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"https://short.therealadam.com/uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-22T20:14:03-05:00",
 				"url": "https://short.therealadam.com/2020/04/22/the-second-best.html"
 			},
@@ -834,7 +842,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/05/im-no-good.html",
 				
 				"content_html": "<p>I’m no good at photography, but Texas sunsets make it easy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"https://short.therealadam.com/uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-05T19:48:37-05:00",
 				"url": "https://short.therealadam.com/2020/04/05/im-no-good.html"
 			},
@@ -1266,7 +1274,7 @@
 				"id": "http://therealadam.micro.blog/2019/01/15/was-way-more.html",
 				
 				"content_html": "<p>Was way more into this playlist when I thought it was &ldquo;Eels!&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
+				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"https://short.therealadam.com/uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2019-01-15T11:57:55-05:00",
 				"url": "https://short.therealadam.com/2019/01/15/was-way-more.html"
 			},
@@ -1402,7 +1410,7 @@
 				"id": "http://therealadam.micro.blog/2018/11/14/our-evil-corgi.html",
 				
 				"content_html": "<p>Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
+				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"https://therealadam.micro.blog/uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
 				"date_published": "2018-11-14T17:23:16-05:00",
 				"url": "https://short.therealadam.com/2018/11/14/our-evil-corgi.html"
 			},
