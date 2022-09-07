@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2022/09/07/great-albums-little.html",
+				"title": "Great Albums: Little Rock",
+				"content_html": "<p><img src=\"https://images-na.ssl-images-amazon.com/images/I/619S7wxMacS._SX466_.jpg\" alt=\"Album cover for \\_Little Rock\\_\"></p>\n<p>Or: Texas, the Good Parts. (Despite the title!)</p>\n<p>Or: a damn-fine road trip album.</p>\n<p>Or: it sounds like Texas, to me. (Again, despite the title.)</p>\n<p>Hayes Carll is my favorite under-the-radar, “this is what country music should sound like” musician. Wit, remorse, nostalgia. Storytelling, quirky characters, relatable characters. Little bit of rock, little bit of western. An ideal Americana mix. It’s all there.</p>\n<p>Plus, at 40 minutes, it’s a perfect road trip selection. Always moving forward, but never long-winded.</p>\n",
+				"content_text": "![Album cover for \\_Little Rock\\_](https://images-na.ssl-images-amazon.com/images/I/619S7wxMacS._SX466_.jpg)\n\nOr: Texas, the Good Parts. (Despite the title!)\n\nOr: a damn-fine road trip album.\n\nOr: it sounds like Texas, to me. (Again, despite the title.)\n\nHayes Carll is my favorite under-the-radar, “this is what country music should sound like” musician. Wit, remorse, nostalgia. Storytelling, quirky characters, relatable characters. Little bit of rock, little bit of western. An ideal Americana mix. It’s all there.\n\nPlus, at 40 minutes, it’s a perfect road trip selection. Always moving forward, but never long-winded.\n\n",
+				"date_published": "2022-09-07T07:31:03-05:00",
+				"url": "https://short.therealadam.com/2022/09/07/great-albums-little.html"
+			},
+			{
 				"id": "http://therealadam.micro.blog/2022/08/24/an-unconference-appears.html",
 				"title": "An un-conference appears",
 				"content_html": "<p>I jumped into a short <a href=\"https://twitter.com/andy_matuschak/status/1561504734892023808\">un-conference organized/hosted by Andy Matuschak</a> last weekend. Within this humble Gather, I came across lots of intriguing people and energizing ideas. Some notes and a few follow-up ideas:</p>\n<p><img src=\"https://short.therealadam.com/uploads/2022/e1baddc3b8.png\" alt=\"My notes from the event\"></p>\n<p><a href=\"https://www.napkin.one\">Napkin</a> is <em>space</em> for ideas and not, it seems, about note capture as an end. Rather, it&rsquo;s about throwing ideas or quotes at the (metaphorical) wall and letting the system organize them into clusters or connections. If you like some of those idea, you organize the ideas into a linear outline and export that to whatever you like to write with.</p>\n<p><a href=\"https://ncase.me/nutshell/\">Nutshell</a> is about adding an extra dimension to documents on the web. The creator, <a href=\"https://ncase.me\">Nicky Case</a>, described it as a &ldquo;tool for expandable explanation&rdquo;. Those explanations take the form of popovers that may contain a bit of text (like a footnote/annotation), a scraped reference to another page (transclusion), or a fully interactive gizmo to explore an idea in a more tactile manner.</p>\n<p>Excitement about applying language models (e.g. GPT-3 or DALL-E) to generative creativity came up a few times. Some of the applications demoed were already using language models to augment insight or obviate manual human organization. Using models to &lsquo;read between the lines&rsquo; of captured notes/human input and generate new ideas came up as well.</p>\n<p>Dissatisfaction with some current PKM tools came up a couple times. In particular, seeking note capture or memory recall as a (customer) engagement end rather than as a means to thinking more/better thoughts. I <em>think</em> I heard a couple criticisms that some tool was &ldquo;too IT&rdquo;, but I&rsquo;m not sure I even heard it correctly or what that would even mean! 😆</p>\n<p>Overall: highly recommend seeking folks using computers to augment their ability to create and remember instead of stopping at “finally got my notes app just the way I like it”!</p>\n",
@@ -546,7 +554,7 @@
 				"id": "http://therealadam.micro.blog/2020/07/20/we-had-a.html",
 				
 				"content_html": "<p>We had a real dinger of a sunset last night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"https://short.therealadam.com/uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-20T18:25:58-05:00",
 				"url": "https://short.therealadam.com/2020/07/20/we-had-a.html"
 			},
@@ -658,7 +666,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/29/210628.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"https://short.therealadam.com/uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://short.therealadam.com/uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-29T21:06:28-05:00",
 				"url": "https://short.therealadam.com/2020/05/29/210628.html"
 			},
@@ -682,7 +690,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/27/dear-apple-music.html",
 				
 				"content_html": "<p>Dear Apple Music algorithms,</p>\n<p>The center item is not at all like the others.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"https://short.therealadam.com/uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
+				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
 				"date_published": "2020-05-27T08:27:52-05:00",
 				"url": "https://short.therealadam.com/2020/05/27/dear-apple-music.html"
 			},
@@ -762,7 +770,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/22/the-second-best.html",
 				
 				"content_html": "<p>The second best sunset of the week (Monday)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"https://short.therealadam.com/uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-22T20:14:03-05:00",
 				"url": "https://short.therealadam.com/2020/04/22/the-second-best.html"
 			},
@@ -842,7 +850,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/05/im-no-good.html",
 				
 				"content_html": "<p>I’m no good at photography, but Texas sunsets make it easy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"https://short.therealadam.com/uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-05T19:48:37-05:00",
 				"url": "https://short.therealadam.com/2020/04/05/im-no-good.html"
 			},
@@ -1274,7 +1282,7 @@
 				"id": "http://therealadam.micro.blog/2019/01/15/was-way-more.html",
 				
 				"content_html": "<p>Was way more into this playlist when I thought it was &ldquo;Eels!&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"https://short.therealadam.com/uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
+				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2019-01-15T11:57:55-05:00",
 				"url": "https://short.therealadam.com/2019/01/15/was-way-more.html"
 			},
@@ -1410,7 +1418,7 @@
 				"id": "http://therealadam.micro.blog/2018/11/14/our-evil-corgi.html",
 				
 				"content_html": "<p>Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"https://therealadam.micro.blog/uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
+				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
 				"date_published": "2018-11-14T17:23:16-05:00",
 				"url": "https://short.therealadam.com/2018/11/14/our-evil-corgi.html"
 			},
