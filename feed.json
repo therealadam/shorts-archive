@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2023/01/02/music-i-wish.html",
+				"title": "Music I Wish I Had Written",
+				"content_html": "<ul>\n<li><em>The Rite of Spring</em>, Igor Stravinsky</li>\n<li><em>The Planets</em>, Gustav Holst</li>\n<li>&ldquo;Good Vibrations&rdquo;, Brian Wilson</li>\n<li>&ldquo;Losing My Edge&rdquo;, James Murphy</li>\n<li>&ldquo;I Feel the Earth Move&rdquo;, Carole King</li>\n</ul>\n",
+				"content_text": "*  _The Rite of Spring_, Igor Stravinsky\n*  _The Planets_, Gustav Holst\n*  \"Good Vibrations\", Brian Wilson\n*  \"Losing My Edge\", James Murphy\n*  \"I Feel the Earth Move\", Carole King\n\n\n",
+				"date_published": "2023-01-02T12:00:00-06:00",
+				"url": "https://short.therealadam.com/2023/01/02/music-i-wish.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://therealadam.micro.blog/2022/12/31/best-david-lee.html",
+				"title": "Best David Lee Roth Mid-Song Banter",
+				"content_html": "<ul>\n<li>&ldquo;Unchained&rdquo;</li>\n<li>&ldquo;Everybody Wants Some&rdquo;</li>\n<li>&ldquo;Hot for Teacher&rdquo;</li>\n</ul>\n",
+				"content_text": "*  \"Unchained\"\n*  \"Everybody Wants Some\"\n*  \"Hot for Teacher\"\n\n\n",
+				"date_published": "2022-12-31T12:00:00-06:00",
+				"url": "https://short.therealadam.com/2022/12/31/best-david-lee.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://therealadam.micro.blog/2022/12/29/best-of.html",
+				"title": "Best of 2022",
+				"content_html": "<p>Television: <em>Severance</em> (Apple TV), <em>Andor</em> (Disney+)</p>\n<p>Movie: <em>Everything Everywhere All At Once</em></p>\n<p>Music: deep dives into Carly Simon, Nina Simone, J Dilla</p>\n<p>Book: <em>Player Piano</em> by Kurt Vonnegut</p>\n<p>Blog: <a href=\"https://seantcollins.com/category/roadhouse/page/1\">Pain Don&rsquo;t Hurt</a> (a 365 day series of short essays on <em>Roadhouse</em>)</p>\n<p>By my calculations, I managed to write about fifty pages between my blogs this year. That’s about double what I wrote in 2021, so I’m pretty happy with where I ended up here! 💪</p>\n<p>My best writing this year, in my opinion:</p>\n<ul>\n<li><a href=\"https://short.therealadam.com/2022/12/01/an-ideal-weekend.html\">An ideal weekend</a></li>\n<li><a href=\"https://therealadam.com/2022/05/15/the-paradox-of-producing-process/\">The paradox of process</a></li>\n<li><a href=\"https://therealadam.com/2022/07/11/leadership-keywords/\">Leadership keywords</a></li>\n<li><a href=\"https://therealadam.com/2022/07/18/perspective-you-want-it/\">Perspective, you want it</a></li>\n<li><a href=\"https://therealadam.com/2022/12/27/think-your-thoughts/\">Think your thoughts</a></li>\n</ul>\n",
+				"content_text": "Television: *Severance* (Apple TV), *Andor* (Disney+)\n\nMovie: *Everything Everywhere All At Once*\n\nMusic: deep dives into Carly Simon, Nina Simone, J Dilla\n\nBook: *Player Piano* by Kurt Vonnegut\n\nBlog: [Pain Don't Hurt](https://seantcollins.com/category/roadhouse/page/1) (a 365 day series of short essays on _Roadhouse_)\n\nBy my calculations, I managed to write about fifty pages between my blogs this year. That’s about double what I wrote in 2021, so I’m pretty happy with where I ended up here! 💪 \n\nMy best writing this year, in my opinion:\n\n- [An ideal weekend](https://short.therealadam.com/2022/12/01/an-ideal-weekend.html)\n- [The paradox of process](https://therealadam.com/2022/05/15/the-paradox-of-producing-process/)\n- [Leadership keywords](https://therealadam.com/2022/07/11/leadership-keywords/)\n- [Perspective, you want it](https://therealadam.com/2022/07/18/perspective-you-want-it/)\n- [Think your thoughts](https://therealadam.com/2022/12/27/think-your-thoughts/)\n\n",
+				"date_published": "2022-12-29T11:48:48-06:00",
+				"url": "https://short.therealadam.com/2022/12/29/best-of.html"
+			},
+			{
+				"id": "http://therealadam.micro.blog/2022/12/27/classical-music-that.html",
+				"title": "Classical music that is terribly edited in commercials",
+				"content_html": "<ul>\n<li>&ldquo;Also Sprach Zarathustra&rdquo;, Richard Strauss, the opening</li>\n<li>&ldquo;Symphony No. 6&rdquo;, Beethoven</li>\n<li>the rest of the Western classical music canon</li>\n</ul>\n",
+				"content_text": "*  \"Also Sprach Zarathustra\", Richard Strauss, the opening\n*  \"Symphony No. 6\", Beethoven\n*  the rest of the Western classical music canon\n\n\n",
+				"date_published": "2022-12-27T13:00:00-06:00",
+				"url": "https://short.therealadam.com/2022/12/27/classical-music-that.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://therealadam.micro.blog/2022/12/21/driverless-crocodile-nostalgia.html",
 				
 				"content_html": "<p>Driverless Crocodile, <a href=\"https://www.driverlesscrocodile.com/sustainability-and-change/nostalgia-revisited/\">Nostalgia Revisited</a>:</p>\n<blockquote>\n<p>Nostalgia: a kind of homesickness for the past.</p>\n<p>Another way of putting it: the longing you will have in future for the places and people around you now.</p>\n</blockquote>\n<p>Time&rsquo;s arrow is a hell of a thing.</p>\n",
