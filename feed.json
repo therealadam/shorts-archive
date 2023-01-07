@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2023/01/07/the-nap-hierarchy.html",
+				"title": "The nap hierarchy",
+				"content_html": "<p>Doing a short snooze in the middle of the day? I highly recommend it if you have the means. Ideally, one of these places (in order by quality of rest):</p>\n<ol>\n<li>Couch nap</li>\n<li>Chair nap (recliner/lounge chair, ideally)</li>\n<li>Bed nap</li>\n<li>Sky nap (airplane)</li>\n<li>Train nap</li>\n<li>Car nap</li>\n</ol>\n<p>Places I have napped, for better or worse, and would not recommend:</p>\n<ul>\n<li>A rock concert (The Who, Bruce Springsteen)</li>\n<li>A college lecture</li>\n<li>A piano recital</li>\n<li>Voyage of the Little Mermaid (Walt Disney World, Hollywood Studios)</li>\n<li>Great Moments with Mr. Lincoln (Disneyland)</li>\n<li>American Adventure (Walt Disney World, EPCOT)</li>\n</ul>\n",
+				"content_text": "Doing a short snooze in the middle of the day? I highly recommend it if you have the means. Ideally, one of these places (in order by quality of rest):\n\n1. Couch nap\n2. Chair nap (recliner/lounge chair, ideally)\n3. Bed nap\n4. Sky nap (airplane)\n5. Train nap\n6. Car nap\n\nPlaces I have napped, for better or worse, and would not recommend:\n\n- A rock concert (The Who, Bruce Springsteen)\n- A college lecture\n- A piano recital\n- Voyage of the Little Mermaid (Walt Disney World, Hollywood Studios)\n- Great Moments with Mr. Lincoln (Disneyland)\n- American Adventure (Walt Disney World, EPCOT)\n\n\n",
+				"date_published": "2023-01-07T12:44:08-06:00",
+				"url": "https://short.therealadam.com/2023/01/07/the-nap-hierarchy.html"
+			},
+			{
+				"id": "http://therealadam.micro.blog/2023/01/06/bruce-springsteen-epochs.html",
+				"title": "Bruce Springsteen Epochs",
+				"content_html": "<ul>\n<li>Motown Bohemian, curly hair, <em>The Wild, The Innocent, and the E-Street Shuffle</em></li>\n<li>Denim, muscles, <em>Born in the USA</em></li>\n<li>The introspective wanderer, bolo tie, <em>Human Touch</em></li>\n<li>Revival, the flavor-saver goatee, <em>The Rising</em></li>\n<li>The rock &lsquo;n roll stateman, dark vest and necktie, <em>High Hopes</em></li>\n</ul>\n",
+				"content_text": "*  Motown Bohemian, curly hair, _The Wild, The Innocent, and the E-Street Shuffle_\n*  Denim, muscles, _Born in the USA_\n*  The introspective wanderer, bolo tie, _Human Touch_\n*  Revival, the flavor-saver goatee, _The Rising_\n*  The rock 'n roll stateman, dark vest and necktie, _High Hopes_\n\n\n",
+				"date_published": "2023-01-06T12:00:00-06:00",
+				"url": "https://short.therealadam.com/2023/01/06/bruce-springsteen-epochs.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://therealadam.micro.blog/2023/01/04/what-a-guitar.html",
+				"title": "What A Guitar Is Supposed To Sound Like",
+				"content_html": "<ul>\n<li>&ldquo;Summertime Blues&rdquo;, The Who, Pete Townsend</li>\n<li>&ldquo;Estranged&rdquo;, Guns &lsquo;n Roses, Slash</li>\n<li>&ldquo;Glory Days&rdquo;, Bruce Springsteen and the E-Street Band</li>\n<li>&ldquo;Highway to Hell&rdquo;, AC/DC, Angus Young</li>\n</ul>\n",
+				"content_text": "*  \"Summertime Blues\", The Who, Pete Townsend\n*  \"Estranged\", Guns 'n Roses, Slash\n*  \"Glory Days\", Bruce Springsteen and the E-Street Band\n*  \"Highway to Hell\", AC/DC, Angus Young\n\n\n",
+				"date_published": "2023-01-04T12:00:00-06:00",
+				"url": "https://short.therealadam.com/2023/01/04/what-a-guitar.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://therealadam.micro.blog/2023/01/02/music-i-wish.html",
 				"title": "Music I Wish I Had Written",
 				"content_html": "<ul>\n<li><em>The Rite of Spring</em>, Igor Stravinsky</li>\n<li><em>The Planets</em>, Gustav Holst</li>\n<li>&ldquo;Good Vibrations&rdquo;, Brian Wilson</li>\n<li>&ldquo;Losing My Edge&rdquo;, James Murphy</li>\n<li>&ldquo;I Feel the Earth Move&rdquo;, Carole King</li>\n</ul>\n",
@@ -679,7 +705,7 @@
 				"id": "http://therealadam.micro.blog/2020/07/20/we-had-a.html",
 				
 				"content_html": "<p>We had a real dinger of a sunset last night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "We had a real dinger of a sunset last night\n\n<img src=\"https://short.therealadam.com/uploads/2020/82e0640374.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-20T17:25:58-06:00",
 				"url": "https://short.therealadam.com/2020/07/20/we-had-a.html"
 			},
@@ -791,7 +817,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/29/210628.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://short.therealadam.com/uploads/2020/9d57ead097.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://short.therealadam.com/uploads/2020/cf45b37564.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-29T20:06:28-06:00",
 				"url": "https://short.therealadam.com/2020/05/29/210628.html"
 			},
@@ -815,7 +841,7 @@
 				"id": "http://therealadam.micro.blog/2020/05/27/dear-apple-music.html",
 				
 				"content_html": "<p>Dear Apple Music algorithms,</p>\n<p>The center item is not at all like the others.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
+				"content_text": "Dear Apple Music algorithms,\n\nThe center item is not at all like the others.\n\n<img src=\"https://short.therealadam.com/uploads/2020/4f53efc443.jpg\" width=\"600\" height=\"169\" alt=\"Album covers of J-Dilla, Madlib, Shaquille O’Neal, Big Krit, Slum Village\" />\n",
 				"date_published": "2020-05-27T07:27:52-06:00",
 				"url": "https://short.therealadam.com/2020/05/27/dear-apple-music.html"
 			},
@@ -895,7 +921,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/22/the-second-best.html",
 				
 				"content_html": "<p>The second best sunset of the week (Monday)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The second best sunset of the week (Monday)\n\n<img src=\"https://short.therealadam.com/uploads/2020/3bab02ae35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-22T19:14:03-06:00",
 				"url": "https://short.therealadam.com/2020/04/22/the-second-best.html"
 			},
@@ -975,7 +1001,7 @@
 				"id": "http://therealadam.micro.blog/2020/04/05/im-no-good.html",
 				
 				"content_html": "<p>I’m no good at photography, but Texas sunsets make it easy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I’m no good at photography, but Texas sunsets make it easy.\n\n<img src=\"https://short.therealadam.com/uploads/2020/c781b75224.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-05T18:48:37-06:00",
 				"url": "https://short.therealadam.com/2020/04/05/im-no-good.html"
 			},
@@ -1407,7 +1433,7 @@
 				"id": "http://therealadam.micro.blog/2019/01/15/was-way-more.html",
 				
 				"content_html": "<p>Was way more into this playlist when I thought it was &ldquo;Eels!&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
+				"content_text": "Was way more into this playlist when I thought it was \"Eels!\"\n\n<img src=\"https://short.therealadam.com/uploads/2019/2b58427bb1.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2019-01-15T10:57:55-06:00",
 				"url": "https://short.therealadam.com/2019/01/15/was-way-more.html"
 			},
@@ -1543,7 +1569,7 @@
 				"id": "http://therealadam.micro.blog/2018/11/14/our-evil-corgi.html",
 				
 				"content_html": "<p>Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
+				"content_text": "Our evil corgi, national champion Fran is now an evil corgi cover girl 😃😃😃\n\n<img src=\"https://therealadam.micro.blog/uploads/2018/7edd7117c0.jpg\" width=\"448\" height=\"600\" />\n",
 				"date_published": "2018-11-14T16:23:16-06:00",
 				"url": "https://short.therealadam.com/2018/11/14/our-evil-corgi.html"
 			},
