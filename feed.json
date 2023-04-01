@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2023/04/01/writing-is-a.html",
+				"title": "Writing is a \"do it, somehow, every day\" game",
+				"content_html": "<p>Whenever I find myself wishing I was posting more toots/articles/etc., I remind myself that the first step is to get words out of my head and onto the page. The hack is that &ldquo;the page&rdquo; is often a personal journal (I use <a href=\"https://dayoneapp.com\">Day One</a>), a paper notebook (<a href=\"https://baronfig.com/products/confidant-hardcover-notebook\">Baron Fig</a>, currently) , or even a task with a note of a few sentences in <a href=\"https://culturedcode.com/things/\">Things</a>. It all counts.</p>\n<p><a href=\"https://www.youtube.com/watch?v=iO5jub2q8us\" title=\"Still my favorite Nike ad, 11 years later\"><img src=\"https://short.therealadam.com/uploads/2023/5c8ec79c2b.png\" alt=\"Just sitting around like The Big Liebowski does not count as writing\"></a></p>\n<p>More importantly, it generates momentum. Possibly, this writer’s most crucial but immeasurable input commodity.</p>\n<p>Related: <a href=\"https://ruby.social/@therealadam/110072680899591393\">finishing is the skill</a> and <a href=\"https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/\">Austin Kleon’s notes on daily blogging, and stock/flow</a>.</p>\n",
+				"content_text": "Whenever I find myself wishing I was posting more toots/articles/etc., I remind myself that the first step is to get words out of my head and onto the page. The hack is that \"the page\" is often a personal journal (I use [Day One](https://dayoneapp.com)), a paper notebook ([Baron Fig](https://baronfig.com/products/confidant-hardcover-notebook), currently) , or even a task with a note of a few sentences in [Things](https://culturedcode.com/things/). It all counts.\n\n[![Just sitting around like The Big Liebowski does not count as writing](https://short.therealadam.com/uploads/2023/5c8ec79c2b.png)](https://www.youtube.com/watch?v=iO5jub2q8us \"Still my favorite Nike ad, 11 years later\")\n\nMore importantly, it generates momentum. Possibly, this writer’s most crucial but immeasurable input commodity.\n\nRelated: [finishing is the skill](https://ruby.social/@therealadam/110072680899591393) and [Austin Kleon’s notes on daily blogging, and stock/flow](https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/).\n\n\n",
+				"date_published": "2023-04-01T11:36:19-05:00",
+				"url": "https://short.therealadam.com/2023/04/01/writing-is-a.html"
+			},
+			{
 				"id": "http://therealadam.micro.blog/2023/03/25/dock-jackpot-in.html",
 				
 				"content_html": "<h1 id=\"dock-jackpot\">Dock jackpot</h1>\n<p>In twenty years of using Mac OS X/macOS, rarely has my dock <em>not</em> been all blue icons or a bunch of faces staring at each other. Today is one of those days, bless.</p>\n<!-- raw HTML omitted -->\n",
