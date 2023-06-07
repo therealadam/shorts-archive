@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2023/06/07/it-sounded-like.html",
+				"title": "\"It sounded like the kick drum was played by a drunk 3-year old, and I was like ‘Are you allowed to do that?’”",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://pudding.cool/2023/06/groove/\">WONKY</a> – pudding.cool analyzes what makes J Dilla special. Particularly good if <a href=\"https://dillati.me/\">Dilla Time</a> (<a href=\"https://short.therealadam.com/2022/11/13/dilla-time.html\">previously</a>) is still in your to-read list.</p>\n",
+				"date_published": "2023-06-07T11:09:55-05:00",
+				"url": "https://short.therealadam.com/2023/06/07/it-sounded-like.html"
+			},
+			{
+				"id": "http://therealadam.micro.blog/2023/05/28/albums-is-a.html",
+				
+				"content_html": "<p><a href=\"https://www.albumstheapp.com/?ref=bb.place\">Albums</a> is a great app and <a href=\"https://bb.place/the-best-app-for-albums/\">The Best App for Albums</a> is a great review of what makes it good for music enthusiasts and/or organizational hobbyists. I don’t want to jinx it, but Albums checks a lot of boxes for me that Rdio did, back in the day.</p>\n",
+				"content_text": "[Albums](https://www.albumstheapp.com/?ref=bb.place) is a great app and [The Best App for Albums](https://bb.place/the-best-app-for-albums/) is a great review of what makes it good for music enthusiasts and/or organizational hobbyists. I don’t want to jinx it, but Albums checks a lot of boxes for me that Rdio did, back in the day.\n",
+				"date_published": "2023-05-28T10:34:05-05:00",
+				"url": "https://short.therealadam.com/2023/05/28/albums-is-a.html"
+			},
+			{
 				"id": "http://therealadam.micro.blog/2023/05/26/til-jenny-lewis.html",
 				
-				"content_html": "<p>TIL Jenny Lewis covered <a href=\"https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766\">&ldquo;Handle With Care&rdquo;</a>. 👍🏻</p>\n",
-				"content_text": "TIL Jenny Lewis covered [\"Handle With Care\"](https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766). 👍🏻\n",
+				"content_html": "<p>TIL Jenny Lewis covered the Traveling Wilburys' <a href=\"https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766\">&ldquo;Handle With Care&rdquo;</a>. 👍🏻</p>\n",
+				"content_text": "TIL Jenny Lewis covered the Traveling Wilburys' [\"Handle With Care\"](https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766). 👍🏻\n",
 				"date_published": "2023-05-26T09:55:30-05:00",
 				"url": "https://short.therealadam.com/2023/05/26/til-jenny-lewis.html"
 			},
