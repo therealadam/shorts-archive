@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://therealadam.micro.blog/2023/06/18/fruitless-activities-and.html",
+				"title": "Fruitless activities and hobbies are important!",
+				"content_html": "<blockquote>\n<p>Anything you do that doesn’t make you money or help others better be something for your own damned amusement.\n– <a href=\"https://twitter.com/austinkleon/status/1670067739673743360?s=12\">Austin Kleon</a></p>\n</blockquote>\n",
+				"content_text": "> Anything you do that doesn’t make you money or help others better be something for your own damned amusement.\n– [Austin Kleon](https://twitter.com/austinkleon/status/1670067739673743360?s=12)\n",
+				"date_published": "2023-06-18T11:01:43-05:00",
+				"url": "https://short.therealadam.com/2023/06/18/fruitless-activities-and.html"
+			},
+			{
+				"id": "http://therealadam.micro.blog/2023/06/12/if-this-isnt.html",
+				"title": "\"If this isn’t nice, I don’t know what is\"",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.goodreads.com/quotes/3172-and-i-urge-you-to-please-notice-when-you-are\">Kurt Vonnegut</a>:</p>\n\n<blockquote>\n<p>And I urge you to please notice when you are happy, and exclaim or murmur or think at some point, &#8216;If this isn&#8217;t nice, I don&#8217;t know what is.&#8217;</p>\n</blockquote>\n\n<p>It’s a kind of way to go about life. Find more activities, people, places that lead to this kind of thought. Find more reasons to say it in regular life. Spend more time doing all those things.</p>\n",
+				"date_published": "2023-06-12T07:21:20-05:00",
+				"url": "https://short.therealadam.com/2023/06/12/if-this-isnt.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://therealadam.micro.blog/2023/06/11/monk-and-robot.html",
+				"title": "Monk and Robot: very enjoyable chill-future vibes",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built\">Monk and Robot, A Psalm for the Wild-Built</a>, Becky Chambers. An optimistic, non-space/techno sci-fi short novel. For me, it&#8217;s a welcome departure from the Very Serious Ideas of Stephenson, Asimov, Gibson, etc. No big bad, just a nice world and great interactions between a person and a robot.</p>\n\n<p>Highly recommended for a vacation/beach read.</p>\n",
+				"date_published": "2023-06-11T12:08:32-05:00",
+				"url": "https://short.therealadam.com/2023/06/11/monk-and-robot.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://therealadam.micro.blog/2023/06/07/it-sounded-like.html",
 				"title": "\"It sounded like the kick drum was played by a drunk 3-year old, and I was like ‘Are you allowed to do that?’”",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -25,10 +51,11 @@
 			{
 				"id": "http://therealadam.micro.blog/2023/05/26/til-jenny-lewis.html",
 				
-				"content_html": "<p>TIL Jenny Lewis covered the Traveling Wilburys' <a href=\"https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766\">&ldquo;Handle With Care&rdquo;</a>. 👍🏻</p>\n",
-				"content_text": "TIL Jenny Lewis covered the Traveling Wilburys' [\"Handle With Care\"](https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766). 👍🏻\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>TIL Jenny Lewis covered the Traveling Wilburys&#8217; <a href=\"https://music.apple.com/us/album/handle-with-care/1043297885?i=1043298766\">&#8220;Handle With Care&#8221;</a>. 👍🏻</p>\n",
 				"date_published": "2023-05-26T09:55:30-05:00",
-				"url": "https://short.therealadam.com/2023/05/26/til-jenny-lewis.html"
+				"url": "https://short.therealadam.com/2023/05/26/til-jenny-lewis.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://therealadam.micro.blog/2023/05/12/dont-zero-out.html",
@@ -50,7 +77,7 @@
 				"id": "http://therealadam.micro.blog/2023/03/25/dock-jackpot-in.html",
 				
 				"content_html": "<h1 id=\"dock-jackpot\">Dock jackpot</h1>\n<p>In twenty years of using Mac OS X/macOS, rarely has my dock <em>not</em> been all blue icons or a bunch of faces staring at each other. Today is one of those days, bless.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# Dock jackpot\n\nIn twenty years of using Mac OS X/macOS, rarely has my dock _not_ been all blue icons or a bunch of faces staring at each other. Today is one of those days, bless.\n\n<img src=\"uploads/2023/05691d963d.png\" width=\"600\" height=\"67\" alt=\"\">\n",
+				"content_text": "# Dock jackpot\n\nIn twenty years of using Mac OS X/macOS, rarely has my dock _not_ been all blue icons or a bunch of faces staring at each other. Today is one of those days, bless.\n\n<img src=\"https://cdn.uploads.micro.blog/7748/2023/05691d963d.png\" width=\"600\" height=\"67\" alt=\"\">\n",
 				"date_published": "2023-03-25T13:05:54-05:00",
 				"url": "https://short.therealadam.com/2023/03/25/dock-jackpot-in.html"
 			},
