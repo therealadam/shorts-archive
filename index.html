@@ -24,76 +24,27 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://short.therealadam.com/2023/09/06/build-with-language.html">Build with language models via llm</a></h1>
+			<h1><a href="https://short.therealadam.com/2023/09/23/stop-writing.html">Stop writing</a></h1>
 		
 
-		<a href="https://short.therealadam.com/2023/09/06/build-with-language.html" class="u-url"><time class="dt-published" datetime="2023-09-06 13:13:16 -0700">Sep 6, 2023</time></a>
+		<a href="https://short.therealadam.com/2023/09/23/stop-writing.html" class="u-url"><time class="dt-published" datetime="2023-09-23 13:30:08 -0700">Sep 23, 2023</time></a>
 
 		<div class="e-content">
-			 <p><a href="https://llm.datasette.io/en/stable/index.html"><code>llm</code></a> (<a href="https://til.therealadam.com/2023/08/27/llm-is-a.html">previously</a>) is a tool Simon Willison is working on for interacting with large language models, running via API <em>or</em> locally.</p>
-<p>I set out to use <code>llm</code> as the glue for prototyping tools to generate embeddings from one of my journals so that I could experiment with search and clustering on my writings. Approximately, what I’m building is an ETL workflow: extract/export data from my journals, transform/index as searchable vectors, load/query for “what docs are similar to or match this query”.</p>
-<h2 id="extract-and-transform-approximately">Extract and transform, approximately</h2>
-<p>Given a JSON export from DayOne, this turned out to be a matter of shell pipelines. After some iterations with prompting (via Raycast’s GPT3.5 integration), I came up with a simple script for extracting entries and loading them into a SQLite database containing embedding vectors:</p>
-<pre><code>#!/bin/sh
-# extract-entries.sh
-# $ ./extract-entries Journals.json
-
-file=$1
-cat $file |
-  jq '[.entries[] | {id: .uuid, content: .text}]' |
-  llm embed-multi journals - \ # [1]
-    --format json \
-    --model sentence-transformers/all-MiniLM-L6-v2 \ # [2]
-    --database journals.db \
-    --store
-</code></pre>
-<p>A couple things to note here:</p>
-<ol>
-<li>The placement of the <code>-</code> parameter matters here. I’m used to placing it at the end of the parameter list, but that didn’t work. The <a href="https://llm.datasette.io/en/stable/embeddings/cli.html#llm-embed-multi"><code>llm embed-multi</code></a> docs suggest that <code>--input</code> is equivalent, but I think that’s a docs bug (the parameter doesn’t seem to exist in the released code).</li>
-<li>I’m using locally-run model to generate the embeddings. This is very cool!</li>
-</ol>
-<p>In particular, <code>llm embed-multi</code> takes one JSON doc per line, expecting <code>id/content</code> keys, and “indexes” those into a database of document/embedding rows. (If you’re thinking “hey, it’s SQLite, that has full search, why not both: yes, me too, that’s what I’m hoping to accomplish next!)</p>
-<p>I probably could have just built this by iterating on shell commands, but I like editing with a full-blown editor and don’t particularly want to practice at using the zsh builtin editor. 🤷🏻‍♂️</p>
-<h2 id="load-of-a-sort">Load, of a sort</h2>
-<p>Once that script finishes (it takes a few moments to generate all the embeddings), querying for documents similar to a query text is also straightforward:</p>
-<pre><code># Query the embeddings and pretty display the results
-# query.sh
-# ./query.sh &quot;What is good in life?&quot;
-query=$1
-
-llm similar journals \
-  --number 3 \
-  --content &quot;$query&quot; |
-  jq -r -c '.content' | # [1]
-  mdcat # [2]
-</code></pre>
-<p>Of note, two things that probably should have been more obvious to me:</p>
-<ol>
-<li>I don’t need to write a for-loop in shell to handle the output of <code>llm similar</code>; <code>jq</code> basically has an option for that</li>
-<li>Pretty-printing Markdown to a terminal is trivial after <code>brew install mdcat</code></li>
-</ol>
-<p>I didn’t go too far into clustering, which also boils down to one command: <code>llm cluster journals 10</code>. I hit a hiccup wherein I couldn’t run a model like LLaMa2 or an even smaller one because of issues with my installation.</p>
-<h2 id="things-i-learned">Things I learned!</h2>
+			 <p>George Saunders on <a href="https://georgesaunders.substack.com/p/office-hours-8e8">getting past self-critical/low-energy writing spirals</a> (aka one of the many forms of writer’s block):</p>
+<blockquote>
+<p>Another thing I sometimes suggest is this: stop writing. That is, stop doing your “real” writing. Yank yourself out of your usual daily routine. Instead, today, off the top of your head, write one sentence. Don’t think about what it should be about, or any of that. Just slap some crazy stuff down on the page. (Or it can be sane stuff. The “slapping down” is the key.) Print it out. Then, go do something else and, over the next 24 hours, do your best not to give that sentence a single thought.</p>
+</blockquote>
+<p>The complete method, in my own words:</p>
 <ul>
-<li><code>jq</code> is very good on its own!
-<ul>
-<li>and has been for years, probably!</li>
-<li>using a copilot to help me take the first step with syntax using <em>my own</em> data is the epiphany here</li>
+<li>Start with a sentence, nothing in particular. Just start.</li>
+<li>Return to that sentence daily, making additions or changes that feel right.</li>
+<li>As the thing grows from a sentence to a paragraph and so on, spend more time with it. But don&rsquo;t sweat the magnitude of the output. A trivial punctuation change is &ldquo;a good day&rsquo;s work&rdquo;.</li>
+<li>Get bolder in the changes. Do what you prefer and don&rsquo;t worry about why it is you gravitate towards that particular change.</li>
+<li>Resist the urge to switch from working on an exercise to working your routine/process. Keep growing it instinctively.</li>
+<li>Eventually you have a whole story/essay/whatever written this way and you&rsquo;re happy to do something with it.</li>
+<li>Now you are un-stuck.</li>
 </ul>
-</li>
-<li><code>llm</code> is quite good, doubly so with its growing ecosystem of plugins
-<ul>
-<li>if I were happier with using shells, I could have done all of this in a couple relatively simple commands</li>
-<li>it provides an adapter layer that makes it <em>possible</em> to start experimenting/developing against usage-priced APIs and switch to running models/APIs locally when you get serious</li>
-</ul>
-</li>
-<li>it’s feasible to do some kinds of LLM work on your own computer
-<ul>
-<li>in particular, if you don’t mind trading your own time getting your installation right to gain independence from API vendors and usage-based pricing</li>
-</ul>
-</li>
-</ul>
-<p>Mission complete: I have a queryable index of document vectors I can experiment with for searching, clustering, and building applications on top of my journals.</p>
+<p>(Am I using this post to get past a lull in publishing? Yes.)</p>
 
 		</div>
 	  </div>
